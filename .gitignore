@@ -1,0 +1,6 @@
+# Project artifacts
+.idea
+
+# Python caches
+*.pyc
+__python__
